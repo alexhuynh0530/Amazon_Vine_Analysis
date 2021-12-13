@@ -22,9 +22,9 @@ What percentage of Vine reviews were 5 stars? What percentage of non-Vine review
 
 ### Images of DataFrames showing percentage of Vine/non-Vine reviews that were 5 stars
 
-![percentage_5_star_vine.png](https://github.com/alexhuynh0530/Amazon_Vine_Analysis/blob/main/Screenshots/percentage_5_star_vine.png)
+![percentage_5_star_vine.png](https://github.com/alexhuynh0530/Amazon_Vine_Analysis/blob/main/percentage_5_star_vine.png)
 
-## Summary: In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+## Summary: State if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
 
 As seen from the results of the data, there is not a positivity bias for reviews in the Vine program. You see this because non_Vine reviews had a higher percentage of 5 star reviews versus the percentage of Vine reviews that were 5 stars.
 

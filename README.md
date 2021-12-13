@@ -8,18 +8,21 @@ Also, using knowledge of PySpark, Pandas, or SQL, we determine if there is any b
 
 ## Results:
 
-- How many Vine reviews and non-Vine reviews were there?
+How many Vine reviews and non-Vine reviews were there?
 
-There were Vine reviews and 64,968 non-Vine reviews.
+- There were 613 Vine reviews and 64,968 non-Vine reviews.
 
-- How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
-There were 222 Vine reviews with 5 stars and 30,543 non-Vine reviews with 5 stars.
+- There were 222 Vine reviews with 5 stars and 30,543 non-Vine reviews with 5 stars.
 
-- What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
-36%% of Vine reviews were 5 stars and 47% of non-Vine reviews were 5 stars.
+- 36%% of Vine reviews were 5 stars and 47% of non-Vine reviews were 5 stars.
 
+### Images of DataFrames showing percentage of Vine/non-Vine reviews that were 5 stars
+
+![percentage_5_star_vine.png](https://github.com/alexhuynh0530/Amazon_Vine_Analysis/blob/main/Screenshots/percentage_5_star_vine.png)
 
 ## Summary: In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
 
